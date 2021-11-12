@@ -1,7 +1,7 @@
 {
 	"Process": "根据电脑配置，会处理快或慢",
 	"Video codec": "FOURCC视频codec. 想知道更多 <a href='https://www.fourcc.org/codecs.php'>这里</a>",
-	"Output name": "{Map}  ->  地图 \n{MapTitle}  ->  图名 \n{Artist}  ->  音乐作者 \n{Creator}  ->  地图作者 \n{Player}  ->  玩家 \n{PlayDate}  ->  游戏时间 \n{Date}  ->  下载时间 \n{Accuracy}  ->  准确率 \n\nExample: {Player}的{MapTitle} ->  Cookiezi的Harumachi clover.mp4  ",
+	"Output name": "{Map}  ->  地图 \n{MapTitle}  ->  图名 \n{Artist}  ->  音乐作者 \n{Creator}  ->  地图作者 \n{Player}  ->  玩家 \n{PlayDate}  ->  游戏时间 \n{Date}  ->  下载时间 \n{Accuracy}  ->  准确率 \n\n例如: {Player}的{MapTitle} ->  Cookiezi的Harumachi clover.mp4  ",
 	"Rotate sliderball": "为了节省时间，这选项是默认关闭的",
 	"Enable PP counter": "可使用CustomPP.exe来自定义PP分器",
 	"Global leaderboard": "需API Key才能开启总排名. 申请API Key <a href='https://osu.ppy.sh/p/api'>这里/a>. 如果不能，请刷新网页",
